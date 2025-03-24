@@ -18,6 +18,7 @@ public class ProductEntity {
     private String productName;
     private int quantity;
     private double price;
+    private int categoryId;
     private String status;
 
 
